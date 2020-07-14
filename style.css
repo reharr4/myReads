@@ -1,0 +1,6 @@
+/*Navigation*/
+nav li a:hover{
+    opacity: 0.8;
+    color: #e6e224;
+    background-color: transparent;
+}
